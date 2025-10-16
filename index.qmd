@@ -1,6 +1,6 @@
 ---
 title: "Matplotlib Examples"
-author: "Your Name"
+author: "Vikram Goyal"
 format: html
 ---
 
